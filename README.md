@@ -37,6 +37,8 @@ The options are in chronological order and will return an error when data from t
 - **Generate XLM** Generates an XML dataset with only the chosen sequence settings and scene settings.
 - **Generate Final XML** Generates an XML dataset with all previously generated data
 
+XML datasets will be saved in Plotter folder
+
 ![GenerateData!](Images/Screenshot3.jpg)
 
 ### View data
