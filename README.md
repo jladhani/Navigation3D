@@ -2,7 +2,7 @@
 
 This tool generates and gathers data for the navigation for the "Pathfinding for agents in games using a tetrahedron mesh" study. This tool generates tetrahedral meshes for navigation and then runs tests on them.
 
-The complete study can be found [here]()
+The complete study can be found [here](https://www.researchgate.net/publication/362801751_Pathfinding_for_agents_in_games_using_a_tetrahedron_mesh)
 
 If you want the resulting output dataset, you can find that [here](https://zenodo.org/record/7009904#.Yv91yHZBxD9)
 
